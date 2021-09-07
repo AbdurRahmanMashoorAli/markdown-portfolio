@@ -1,9 +1,9 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+name: Abdur Rahman
+about: am an enthusiastic developer friendly builder
+title: 'About Me'
+labels: 'none'
+assignees: 'none'
 
 ---
 
